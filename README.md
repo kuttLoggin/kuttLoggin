@@ -1,4 +1,11 @@
-### Hi there 👋
+### 🚪 Hey! What are you doing here, son?
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=kuttloggin&show_icons=true&&theme=tokyonight&count_private=true">
+</p>
+
+[![wakatime](https://wakatime.com/badge/user/3e099568-56b8-41e9-9a3d-9c121d78f1d1.svg)](https://wakatime.com/@kutt_Loggin)
+[![Telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/kutt_Loggin)
 
 <!--
 **kuttLoggin/kuttLoggin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
